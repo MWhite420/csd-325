@@ -1,3 +1,9 @@
+#Mark White
+#Amit Rizal
+#Katie Hilliard
+#CSD325
+
+
 """Forest Fire Sim, modified by Sue Sampson, based on a program by Al Sweigart
 A simulation of wildfires spreading in a forest. Press Ctrl-C to stop.
 Inspired by Nicky Case's Emoji Sim http://ncase.me/simulating/model/
