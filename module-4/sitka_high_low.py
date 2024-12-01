@@ -1,3 +1,8 @@
+#Mark White
+#CSD325
+#Assignment#4.2
+
+
 import csv
 from datetime import datetime
 
